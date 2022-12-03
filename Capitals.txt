@@ -1,0 +1,20 @@
+cairo
+milano
+madrid
+london
+ankara
+rome
+khartoum
+paris
+berlin
+riyadh
+tokyo
+new delhi
+abu dhabi
+damascus
+moscow
+athens
+rabat
+doha
+amsterdam
+tunis
